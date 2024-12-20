@@ -10,12 +10,15 @@
 
 .heading_logo {
     margin-left: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .heading_name {
     font-size: 1.5rem;
     font-weight: 700;
-    padding: 10px 10px 25px 15px;
+    padding: 10px 10px 10px 10px;
     color: #ffffff;
     
 }
