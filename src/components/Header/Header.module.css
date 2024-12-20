@@ -56,4 +56,10 @@
     font-size: 1rem;
     font-weight: 500;
     cursor: pointer;
+    transition: background-color ease-in-out 0.5s;
+}
+
+.header_button button:hover {
+    background-color: #3B82F6;
+    transform: scale(1.2);
 }
